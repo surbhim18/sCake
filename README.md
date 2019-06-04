@@ -3,7 +3,7 @@ Python (v 2.7) scripts for implementing sCAKE method for single document Keyword
 
 sCAKE: semantic Connectivity Aware Keyword Extraction
 
-Author: [Surbhi Mittal](https://github.com/surbhim18/), [Shivani Kumar](https://github.com/shivanik96)
+Authors: [Surbhi Mittal](https://github.com/surbhim18/), [Shivani Kumar](https://github.com/shivanik96)
 
 Acknowledgement: [Swagata Duari](https://github.com/SDuari/)
 
