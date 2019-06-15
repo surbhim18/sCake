@@ -47,4 +47,5 @@ Store all documents in a folder called 'data' along with the following python sc
 3. Run 'InfluenceEvaluation.py'.
 4. Run 'Word-score-with-PositionWeight-sCAKE.py'.
 5. Run 'Construct-keyphrases-sCAKE.py' (for keyphrase generation).
+
 The folder "SCScore_W" contains the keywords and "KP-Preds" contains the keyphrases.
