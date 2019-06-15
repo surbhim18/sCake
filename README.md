@@ -37,8 +37,11 @@ Description:
 The algorithms rank all the candidate keywords and present the output in descending order of SCScore. and does not define the number of candidates to be extracted as keywords.
 Thus the user has to decide on the number of extracted keywords. sCAKE is designed for languages with support of sohisticated NLP tools, like English. This impementation of sCAKE is aimed for English language only. However, interested users may apply the appropriate NLP tools, if available, for the language of their interest.
 
+Note: The algorithm for constructing keyphrases has not been published.
+
 Pipeline:
 =========
+Store all documents in a folder called 'data' along with the following python scripts.
 1. Run 'Create-position-info-sCAKE.py'.
 2. Run 'Create-graph-sCAKE.py'.
 3. Run 'InfluenceEvaluation.py'.
